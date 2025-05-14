@@ -26,7 +26,8 @@ Ensure you have:
    cd Black-and-white-image-colorization-with-OpenCV-and-Deep-Learning
 
 2. Run the application:
-python app.py
+    ```bash
+    python app.py
 
 ## Usage
 - Upload a black & white image.
