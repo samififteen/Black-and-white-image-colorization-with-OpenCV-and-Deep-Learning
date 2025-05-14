@@ -34,6 +34,7 @@ python app.py
 - Download the colorized version or process multiple images. 
 
 ## Project Structure
+```bash
 Black-and-white-image-colorization-with-OpenCV-and-Deep-Learning/
 │── app.py         # Main application
 │── requirements.txt  # Pre-trained models download links
